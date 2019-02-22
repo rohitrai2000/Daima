@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053413989463",
+    "firebase_url": "https://daimaa-4a594.firebaseio.com",
+    "project_id": "daimaa-4a594",
+    "storage_bucket": "daimaa-4a594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053413989463:android:482eb268b0d88ff5",
+        "android_client_info": {
+          "package_name": "com.daima.trycatch.daima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053413989463-21p42pkhmtk0349bpnuadjtqstma4nc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daima.trycatch.daima",
+            "certificate_hash": "a109ce928416bb1a3543deb843d00282f6aa1dfa"
+          }
+        },
+        {
+          "client_id": "1053413989463-gspk6fcsaviltm7p23vkfg59lejucl71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQio4Ey36f767Pma1kZeXEJSsS-aLKqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053413989463-gspk6fcsaviltm7p23vkfg59lejucl71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
