@@ -12,5 +12,12 @@
     <string name="pin_content_desc">PIN input field</string>
     <string name="pin_label_text">OTP</string>
     <string name="email">Email ID</string>
+    <string name="sms_label">Latest SMS</string>
+    <string name="none">None</string>
+    <string name="speech_toggle_on">START SPEAKING</string>
+    <string name="speech_toggle_off">STOP SPEAKING</string>
+    <string name="start_speaking">Okay! I will read your messages out loud</string>
     <string name="password">Password</string>
+    <string name="stop_speaking">Okay! I will stay silent now.</string>
+
 </resources>
