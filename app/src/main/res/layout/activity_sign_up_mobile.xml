@@ -35,7 +35,7 @@
         app:srcCompat="@android:color/holo_blue_bright" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/mobileText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -92,7 +92,7 @@
         app:layout_constraintVertical_bias="0.786" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/otpLogin"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
