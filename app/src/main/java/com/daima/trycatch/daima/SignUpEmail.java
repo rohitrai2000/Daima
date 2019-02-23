@@ -10,4 +10,7 @@ public class SignUpEmail extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up_email);
     }
+
 }
+
+
