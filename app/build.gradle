@@ -17,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    sourceSets { main { res.srcDirs = ['src/main/res', 'src/main/res/raw'] } }
 }
 
 dependencies {
@@ -30,8 +31,22 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.google.firebase:firebase-core:16.0.7'
     implementation 'com.google.firebase:firebase-auth:16.1.0'
-    implementation 'com.google.android.gms:play-services-auth:16.0.1'
-    implementation 'com.google.firebase:firebase-messaging:17.3.4'
-    implementation 'io.kommunicate:kommunicate:1.6.3'
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 apply plugin: 'com.google.gms.google-services'
