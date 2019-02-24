@@ -18,7 +18,6 @@ public class MonthSelect extends AppCompatActivity {
     public Button month8;
     public Button month9;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

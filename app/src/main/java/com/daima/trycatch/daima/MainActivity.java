@@ -48,10 +48,8 @@ public class MainActivity extends AppCompatActivity {
         imageButton1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 Intent homeIntent = new Intent(MainActivity.this, MonthSelect.class);
                 startActivity(homeIntent);
-
             }
         });
     }
