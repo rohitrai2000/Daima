@@ -54,7 +54,7 @@
         app:srcCompat="@android:color/holo_blue_bright" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/VerifyOtp"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -72,7 +72,7 @@
         app:layout_constraintVertical_bias="0.958" />
 
     <EditText
-        android:id="@+id/editText5"
+        android:id="@+id/enterOtp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"

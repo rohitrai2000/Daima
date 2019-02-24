@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".Splash"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
             android:name=".Otp"
             android:label="@string/app_name" />
         <activity android:name=".SignUp" />
-        <activity android:name=".SignUpMobile" />
+        <activity android:name=".MainActivity" />
         <activity android:name=".SignUpEmail" />
         <activity android:name=".Video" />
 
@@ -44,7 +44,17 @@
         </service>
 
         <activity android:name=".MonthSelect" />
-        <activity android:name=".Splash"></activity>
+        <activity android:name=".SignUpMobile"></activity>
+        <activity android:name=".Month1Exercise"></activity>
+        <activity android:name=".Month2Exercise"></activity>
+        <activity android:name=".Month3Exercise"></activity>
+        <activity android:name=".Month4Exercise"></activity>
+        <activity android:name=".Month5Exercise"></activity>
+        <activity android:name=".Month6Exercise"></activity>
+        <activity android:name=".Month7Exercise"></activity>
+        <activity android:name=".Month8Exercise"></activity>
+        <activity android:name=".Month9Exercise"></activity>
+
     </application>
 
 </manifest>
