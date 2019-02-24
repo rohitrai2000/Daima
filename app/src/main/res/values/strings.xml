@@ -39,42 +39,15 @@
     <string name="month7_text">your baby is out into this world. Your exercise should not stop but continue even as your bump grows bigger and bigger. </string>
     <string name="month8_text">Month 8</string>
     <string name="month9_text">Month 9</string>
-    <string name="month1week1"></string>
-    <string name="month1week2"></string>
-    <string name="month1week3"></string>
-    <string name="month1week4"></string>
-    <string name="month2week1"></string>
-    <string name="month2week2"></string>
-    <string name="month2week3"></string>
-    <string name="month2week4"></string>
-    <string name="month3week1"></string>
-    <string name="month3week2"></string>
-    <string name="month3week3"></string>
-    <string name="month3week4"></string>
-    <string name="month4week1"></string>
-    <string name="month4week2"></string>
-    <string name="month4week3"></string>
-    <string name="month4week4"></string>
-    <string name="month5week1"></string>
-    <string name="month5week2"></string>
-    <string name="month5week3"></string>
-    <string name="month5week4"></string>
-    <string name="month6week1"></string>
-    <string name="month6week2"></string>
-    <string name="month6week3"></string>
-    <string name="month6week4"></string>
-    <string name="month7week1"></string>
-    <string name="month7week2"></string>
-    <string name="month7week3"></string>
-    <string name="month7week4"></string>
-    <string name="month8week1"></string>
-    <string name="month8week2"></string>
-    <string name="month8week3"></string>
-    <string name="month8week4"></string>
-    <string name="month9week1"></string>
-    <string name="month9week2"></string>
-    <string name="month9week3"></string>
-    <string name="month9week4"></string>
+
+    <string name="tri1">First Trimester</string>
+    <string name="tri2">Second Trimester</string>
+    <string name="tri3">Third Trimester</string>
+
+    <string name="tri1_text">First Trimester</string>
+    <string name="tri2_text">Second Trimester</string>
+    <string name="tri3_text">Third Trimester</string>
+
     <string name="lipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer faucibus eros dignissim massa aliquet feugiat. Nunc aliquam sapien ipsum, quis dapibus augue maximus non. Suspendisse suscipit maximus luctus. In sit amet metus ut sapien consectetur lacinia at at ligula. Suspendisse et consequat erat, vitae dignissim ex. Nulla elit libero, ultrices eu erat et, laoreet auctor justo. Nulla vel lectus in neque dapibus hendrerit non ut ex. Duis ut eros posuere, convallis nibh in, tempus diam. Mauris vulputate fringilla feugiat. Nam dignissim purus sed lacus elementum pretium. Aliquam turpis felis, congue eu neque ut, varius dignissim tortor. Integer semper suscipit lorem, non eleifend lacus sagittis in. Pellentesque vel metus magna.
 
 Pellentesque dictum velit nulla, vel pulvinar magna interdum eget. Fusce molestie ac nisi lacinia viverra. Aenean faucibus, nulla et posuere finibus, diam felis viverra lacus, ut vulputate arcu odio id massa. Nam et pretium neque. Nam consequat felis a nulla facilisis rutrum. Maecenas est risus, feugiat ut tellus a, rhoncus ultrices felis. Donec imperdiet mollis lacinia. Morbi mauris mi, vulputate in ultrices sit amet, auctor at eros. Aenean rutrum, est placerat porttitor mattis, dui elit laoreet sem, mollis sagittis lectus velit sed dui. Donec et nisl nec libero egestas aliquam eu vitae sapien.</string>
