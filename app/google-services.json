@@ -23,6 +23,22 @@
           }
         },
         {
+          "client_id": "1053413989463-sd8tn58qtvdm0u03eq04i04p93giviin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daima.trycatch.daima",
+            "certificate_hash": "b731f62f53e7f097b170f9f30826589f2f896622"
+          }
+        },
+        {
+          "client_id": "1053413989463-80hcu1mkskc9ag0ope6egfi7c6qchutb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daima.trycatch.daima",
+            "certificate_hash": "fd4cd47222db42fffcd82b6a4dac461d98ee857b"
+          }
+        },
+        {
           "client_id": "1053413989463-gspk6fcsaviltm7p23vkfg59lejucl71.apps.googleusercontent.com",
           "client_type": 3
         }
