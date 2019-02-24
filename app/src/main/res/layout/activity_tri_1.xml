@@ -50,23 +50,6 @@
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toTopOf="parent">
 
-                        <android.support.constraint.ConstraintLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="30dp">
-
-                        </android.support.constraint.ConstraintLayout>
-
-                        <TextView
-                            android:id="@+id/textView3"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:background="@drawable/heading"
-                            android:text="@string/tri1"
-                            android:textAlignment="center"
-                            android:textColor="@color/common_google_signin_btn_text_dark_focused"
-                            android:textSize="36sp"
-                            android:textStyle="bold" />
-
                         <ImageView
                             android:id="@+id/imageView"
                             android:layout_width="match_parent"

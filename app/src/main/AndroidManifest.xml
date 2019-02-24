@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Splash"
+            android:name=".Tri_1"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,7 +29,6 @@
         <activity android:name=".SignUp" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SignUpEmail" />
-        <activity android:name=".Video" />
 
         <!-- fcm -->
         <service android:name=".MyFirebaseMessagingService">
@@ -54,7 +53,7 @@
         <activity android:name=".Month7Exercise"></activity>
         <activity android:name=".Month8Exercise"></activity>
         <activity android:name=".Month9Exercise"></activity>
-        <activity android:name=".Tri_1" />
+        <activity android:name=".Splash" />
         <activity android:name=".Tri_2" />
         <activity android:name=".Tri_3"></activity>
 
