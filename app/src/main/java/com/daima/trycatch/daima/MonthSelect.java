@@ -30,7 +30,7 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month1Exercise.class);
                 startActivity(homeIntent);
-                finish();
+
             }
         });
 
@@ -40,7 +40,7 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month2Exercise.class);
                 startActivity(homeIntent);
-                finish();
+
             }
         });
 
@@ -50,7 +50,7 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month3Exercise.class);
                 startActivity(homeIntent);
-                finish();
+
             }
         });
 
@@ -60,7 +60,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month4Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
 
@@ -70,7 +69,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month5Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
 
@@ -80,7 +78,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month6Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
 
@@ -90,7 +87,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month7Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
 
@@ -100,7 +96,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month8Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
 
@@ -110,7 +105,6 @@ public class MonthSelect extends AppCompatActivity {
             public void onClick(View view) {
                 Intent homeIntent = new Intent(MonthSelect.this, Month9Exercise.class);
                 startActivity(homeIntent);
-                finish();
             }
         });
     }

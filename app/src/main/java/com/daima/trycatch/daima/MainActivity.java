@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent homeIntent = new Intent(MainActivity.this, MonthSelect.class);
                 startActivity(homeIntent);
-                finish();
+
             }
         });
     }
