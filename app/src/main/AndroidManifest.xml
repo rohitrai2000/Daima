@@ -44,20 +44,20 @@
         </service>
 
         <activity android:name=".MonthSelect" />
-        <activity android:name=".SignUpMobile"></activity>
-        <activity android:name=".Month1Exercise"></activity>
-        <activity android:name=".Month2Exercise"></activity>
-        <activity android:name=".Month3Exercise"></activity>
-        <activity android:name=".Month4Exercise"></activity>
-        <activity android:name=".Month5Exercise"></activity>
-        <activity android:name=".Month6Exercise"></activity>
-        <activity android:name=".Month7Exercise"></activity>
-        <activity android:name=".Month8Exercise"></activity>
-        <activity android:name=".Month9Exercise"></activity>
+        <activity android:name=".SignUpMobile" />
+        <activity android:name=".Month1Exercise" />
+        <activity android:name=".Month2Exercise" />
+        <activity android:name=".Month3Exercise" />
+        <activity android:name=".Month4Exercise" />
+        <activity android:name=".Month5Exercise" />
+        <activity android:name=".Month6Exercise" />
+        <activity android:name=".Month7Exercise" />
+        <activity android:name=".Month8Exercise" />
+        <activity android:name=".Month9Exercise" />
         <activity android:name=".Tri_1" />
         <activity android:name=".Tri_2" />
-        <activity android:name=".Tri_3"></activity>
-
+        <activity android:name=".Tri_3" />
+        <activity android:name=".Options"></activity>
     </application>
 
 </manifest>
