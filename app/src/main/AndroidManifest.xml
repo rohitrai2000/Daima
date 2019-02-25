@@ -57,7 +57,9 @@
         <activity android:name=".Tri_1" />
         <activity android:name=".Tri_2" />
         <activity android:name=".Tri_3" />
-        <activity android:name=".Options"></activity>
+        <activity android:name=".Options" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".DietSelect"></activity>
     </application>
 
 </manifest>

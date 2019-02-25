@@ -21,6 +21,21 @@
     <string name="week3">Week 3</string>
     <string name="week4">Week 4</string>
 
+    <string name="namepro">Name:</string>
+    <string name="namefire">Rohit Rai</string>
+
+    <string name="phonepro">Phone Numb:</string>
+    <string name="phonefire">1234567890</string>
+
+    <string name="doctorpro">Doctor:</string>
+    <string name="doctorfire">Chandu</string>
+
+    <string name="emailpro">eMail:</string>
+    <string name="emailfire">rohitrai1999@gmail.com</string>
+
+    <string name="passwordpro">Password:</string>
+    <string name="passwordfire">pass</string>
+
     <string name="signin">Sign In</string>
 
     <string name="month1">Month 1</string>
