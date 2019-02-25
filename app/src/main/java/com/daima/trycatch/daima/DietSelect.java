@@ -1,7 +1,10 @@
 package com.daima.trycatch.daima;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
@@ -10,12 +13,17 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.Toast;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.util.Log;
 
-class DietSelect extends Activity implements OnItemSelectedListener{
+public class DietSelect extends Activity implements OnItemSelectedListener{
+
+
+    public Map<String,String> map = new HashMap<String,String>();
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.DietSelect);
+        setContentView(R.layout.activity_diet_select);
+
 
         // Spinner element
         Spinner spinner1 = (Spinner) findViewById(R.id.spinner1);
@@ -59,12 +67,9 @@ class DietSelect extends Activity implements OnItemSelectedListener{
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        // On selecting a spinner item
-        String item = parent.getItemAtPosition(position).toString();
-        
-        // Showing selected spinner item
-        Toast.makeText(parent.getContext(), "Selected: " + item, Toast.LENGTH_LONG).show();
+        // On selecting a spinner ite
     }
+
     public void onNothingSelected(AdapterView<?> arg0) {
         // TODO Auto-generated method stub
     }

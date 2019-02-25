@@ -22,7 +22,7 @@
         app:menu="@menu/navigation" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/emailEdit"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -92,7 +92,7 @@
         app:srcCompat="@android:color/holo_blue_bright" />
 
     <EditText
-        android:id="@+id/editText4"
+        android:id="@+id/pswdEdit"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -110,8 +110,9 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.807" />
 
+
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/signUpEmail"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -128,4 +129,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.958" />
 
+
 </android.support.constraint.ConstraintLayout>
+

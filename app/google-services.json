@@ -15,22 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "1053413989463-21p42pkhmtk0349bpnuadjtqstma4nc0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.daima.trycatch.daima",
-            "certificate_hash": "a109ce928416bb1a3543deb843d00282f6aa1dfa"
-          }
-        },
-        {
-          "client_id": "1053413989463-sd8tn58qtvdm0u03eq04i04p93giviin.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.daima.trycatch.daima",
-            "certificate_hash": "b731f62f53e7f097b170f9f30826589f2f896622"
-          }
-        },
-        {
           "client_id": "1053413989463-80hcu1mkskc9ag0ope6egfi7c6qchutb.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -56,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1053413989463-gspk6fcsaviltm7p23vkfg59lejucl71.apps.googleusercontent.com",
+              "client_id": "1053413989463-atsrjds8vtirko387lk1f5oa8e7choo1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
