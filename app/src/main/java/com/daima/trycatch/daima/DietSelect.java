@@ -46,7 +46,7 @@ public class DietSelect extends Activity implements OnItemSelectedListener{
         categories2.add("Non Veg");
 
         List<String> categories3 = new ArrayList<String>();
-        categories3.add("NOrth Indian");
+        categories3.add("North Indian");
         categories3.add("South Indian");
 
         // Creating adapter for spinner

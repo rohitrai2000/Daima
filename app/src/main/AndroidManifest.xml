@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.daima.trycatch.daima">
-      <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_SMS" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -25,7 +26,6 @@
         <activity android:name=".SignUp" />
         <activity android:name=".SignUpEmail" />
         <activity android:name=".SignUpMobile" />
-
 
         <!-- fcm -->
         <service android:name=".MyFirebaseMessagingService">
@@ -54,7 +54,8 @@
         <activity android:name=".Tri_2" />
         <activity android:name=".Tri_3" />
         <activity android:name=".EditProfile" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".AI"></activity>
     </application>
 
 </manifest>

@@ -5,6 +5,9 @@
     <string name="title_aia">AI</string>
     <string name="title_account">Account</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_doc">Doctor</string>
+
     <string name="mobile_number">Mobile Number</string>
     <string name="name">Name</string>
     <string name="dob">Date of Birth</string>
